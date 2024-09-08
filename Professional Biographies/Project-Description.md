@@ -9,5 +9,18 @@
 
 ---
 
+# Faculty Advisor:  
+**Nitin Nitin** (nitinfu@ucmail.uc.edu)
+
+---
+
 # Project Topic Area  
-**FurrFect** is a specialized social media blog app designed exclusively for pet owners. It provides a platform for sharing moments from the daily lives of their pets while offering valuable resources on pet healthcare, adoption, maintenance tips, and vet services. The app aims to foster a community of pet lovers, providing tools and support to ensure the well-being and happiness of pets.
+**FurrFect** is a specialized social media blog app designed exclusively for pet owners. It provides a platform where users can share daily moments from the lives of their pets while accessing valuable resources on pet healthcare, adoption information, maintenance tips, and veterinary services. The app aims to foster a supportive community for pet lovers, offering tools and advice to enhance the well-being and happiness of pets.
+
+---
+
+### Future Additions:
+- **Project Abstract:** Including a detailed problem statement.
+- **Current Solutions:** Highlighting the inadequacies of existing solutions to the problem.
+- **Technical Background:** Discussing the relevant technical background related to the problem.
+- **Team Approach:** Outlining the project team's unique approach to solving the problem.
