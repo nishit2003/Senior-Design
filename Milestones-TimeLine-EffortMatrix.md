@@ -75,5 +75,5 @@
 | Research pet care blog APIs | 100% | 0% | Nishit |
 | Integrate pet care blog and expert advice | 100% | 0% | Anay |
 | Document blog API integration | 100% | 0% | Nishit |
-| Test and refine application performance under load | 50% | 50% | Both |
+| Test and refine application performance under load | 50% | 50% | Anay |
 | Document project development process | 0% | 100% | Anay |
