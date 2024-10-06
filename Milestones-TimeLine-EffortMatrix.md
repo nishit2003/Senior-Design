@@ -65,15 +65,15 @@
 |------|--------------------------|-----------------------|------------------------|
 | Project Planning | 50% | 50% | Both |
 | Research user authentication options | 100% | 0% | Nishit |
-| Design database schema for user profiles and pet data | 100% | 0% | Nishit |
+| Design database schema for user profiles and pet data | 100% | 0% | Anay |
 | Develop user registration and login functionality | 100% | 0% | Nishit |
-| Test user authentication and registration flow | 80% | 20% | Nishit |
+| Test user authentication and registration flow | 80% | 20% | Anay |
 | Design UI/UX for pet story feed | 0% | 100% | Anay |
 | Develop following, liking, commenting functionality | 0% | 100% | Anay |
-| Develop notifications for veterinary appointments | 100% | 0% | Nishit |
+| Develop notifications for veterinary appointments | 100% | 0% | Anay |
 | Test and validate notifications | 60% | 40% | Nishit |
 | Research pet care blog APIs | 100% | 0% | Nishit |
-| Integrate pet care blog and expert advice | 100% | 0% | Nishit |
+| Integrate pet care blog and expert advice | 100% | 0% | Anay |
 | Document blog API integration | 100% | 0% | Nishit |
 | Test and refine application performance under load | 50% | 50% | Both |
 | Document project development process | 0% | 100% | Anay |
