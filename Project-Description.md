@@ -1,6 +1,4 @@
-# Team Name:
-
-**FurVenturers**
+# Team Name: Furrfect
 
 ---
 
@@ -20,6 +18,29 @@
 # Project Topic Area
 
 **FurrFect** is a specialized social media blog app designed exclusively for pet owners. It provides a platform where users can share daily moments from the lives of their pets while accessing valuable resources on pet healthcare, adoption information, maintenance tips, and veterinary services. The app aims to foster a supportive community for pet lovers, offering tools and advice to enhance the well-being and happiness of pets.
+
+---
+
+# Features
+
+- **Share Pet Moments:** Pet owners can post pictures, stories, and daily moments from their pets' lives to connect with other pet lovers.
+- **Pet Healthcare Tips:** Users can access detailed information on pet healthcare, including maintenance tips and expert advice.
+- **Adoption Resources:** Potential adopters can browse adoption listings and receive notifications when pets become available.
+- **Veterinary Services:** Users can find and compare nearby veterinary services based on reviews and ratings.
+- **Appointment Reminders:** Pet owners can receive reminders for veterinary appointments and medication schedules.
+- **Community Interaction:** Users can like, comment on, and share other users' posts to foster a strong pet-loving community.
+
+---
+
+# Technology Stack
+
+- **Frontend:** React.js 
+- **Backend:** Node.js with Express
+- **Database:** MongoDB
+- **API Integrations:** Third-party APIs for pet adoption, veterinary services, and blog resources
+- **Cloud Infrastructure:** AWS (for hosting, data storage, and notifications)
+- **Authentication:** JWT-based authentication system
+- **Testing:** Jest 
 
 ---
 
