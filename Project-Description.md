@@ -34,13 +34,13 @@
 
 # Technology Stack
 
-- **Frontend:** React.js 
+- **Frontend:** React.js
 - **Backend:** Node.js with Express
 - **Database:** MongoDB
 - **API Integrations:** Third-party APIs for pet adoption, veterinary services, and blog resources
 - **Cloud Infrastructure:** AWS (for hosting, data storage, and notifications)
 - **Authentication:** JWT-based authentication system
-- **Testing:** Jest 
+- **Testing:** Jest
 
 ---
 
