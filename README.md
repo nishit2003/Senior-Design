@@ -23,16 +23,19 @@
    
 ---
 
-5. [ABET Concerns Essay](./Constraints_FurrFect.md)  
+5. [ABET Concerns Essay](./Constraints_FurrFect.md)
+   
 ---
 
 6. [PPT Slideshow](./Fall_Design_Presentation.pptx)  
 ---
 
-7. [Self-Assessment Essays](#self-assessment-essays)  
+7. [Self-Assessment Essays](./assignent3-Team_Contract)
+   - [Nishit Grover](./assignent3-Team_Contract/Assignent3_Grover.pdf)
+   - [Anay Joshi](./assignent3-Team_Contract/Assignent3_Joshi.pdf) 
 ---
 
-8. [Professional Biographies](./Professional%20Biographies)  
+8. [Professional Biographies](./Professional_Biographies)  
    - [Nishit Grover](./Professional_Biographies/Nishit_Biography.md)
    - [Anay Joshi](./Professional_Biographies/Anay_Biography.md)
 ---
