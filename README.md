@@ -14,7 +14,7 @@
    - [User Stories](./User_Stories.md)
 
    - [Design Diagrams](./Design_Diagrams) 
-      - [Level 0 Diagram](./Design_Diagrams/Furrfect_D0.pdf)
+      - [Level 0 Diagram](./Design_Diagrams/FurrFect_D0.pdf)
       - [Level 1 Diagram](./Design_Diagrams/Furrfect_D1.pdf)
       - [Level 2 Diagram](./Design_Diagrams/Furrfect_D2.pdf) 
 ---
