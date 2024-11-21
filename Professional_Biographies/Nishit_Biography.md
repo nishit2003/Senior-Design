@@ -43,8 +43,7 @@
 - Scalable Applications using Modern Frameworks and Cloud Technologies
 
 
-## Project Sought
-- Create a simple yet scalable task management application hosted on the cloud. The application will allow users to create, track, and manage their tasks or to-do lists from any device. It will be designed using modern full-stack development frameworks and cloud technologies, ensuring that the application can scale as more users join.
+
 
 
 
