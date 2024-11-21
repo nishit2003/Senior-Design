@@ -45,6 +45,8 @@
 ---
 
 10. [Appendix](#appendix)
+   - [Source Code](./FurrFectSD)
+   - [Meeting Notes](./meeting_notes.docx)
 
 
 
