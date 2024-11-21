@@ -44,9 +44,4 @@
 
 ---
 
-### Future Additions:
 
-- **Project Abstract:** Including a detailed problem statement.
-- **Current Solutions:** Highlighting the inadequacies of existing solutions to the problem.
-- **Technical Background:** Discussing the relevant technical background related to the problem.
-- **Team Approach:** Outlining the project team's unique approach to solving the problem.
