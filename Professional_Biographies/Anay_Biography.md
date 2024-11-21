@@ -62,7 +62,4 @@ redundancy by 50% and boosted ongoing project’s efficiency by 80%
 - Software Programming and Development 
 
 
-## Project Sought
-- TBD
-
 
