@@ -3,50 +3,51 @@
 
 # Table of Contents
 
-1. [Team Names and Project Abstract](./assignent3-Team_Contract/Team_Contract.pdf)  
+1. [Project Description](./Project-Description.md) 
 
 ---
 
-2. [Project Description](./Project-Description.md)  
+2. [User Interface Specification](./UI_images.pdf)
 ---
 
-3. [User Stories and Design Diagrams]() 
-   - [User Stories](./User_Stories.md)
+3. [Test Plan and Results]()
+   - [Test Plan](./Assignment1_TestPlan.pdf)
+   - [Results](./Assignment1_TestPlan_results.pdf)
 
-   - [Design Diagrams](./Design_Diagrams) 
-      - [Level 0 Diagram](./Design_Diagrams/FurrFect_D0.pdf)
-      - [Level 1 Diagram](./Design_Diagrams/Furrfect_D1.pdf)
-      - [Level 2 Diagram](./Design_Diagrams/Furrfect_D2.pdf) 
 ---
 
-4. [Project Tasks and Timeline](./Milestones-TimeLine-EffortMatrix.md)  
+4. [User Manual](./UserDocs.pdf)
+
+---
+
+5. [Spring Final PPT Presentation](./SD_Asngm3_Spring25.pptx)
+
+---
+6. [Final Expo Poster](./SD_poster.pdf) 
    
 ---
 
-5. [ABET Concerns Essay](./Constraints_FurrFect.md)
+7. [Assessments]()
+    - [Initial Self-Assessments]()
+        - [Nishit Grover](./assignent3-Team_Contract/Assignent3_Grover.pdf)
+        - [Anay Joshi](./assignent3-Team_Contract/Assignent3_Joshi.pdf)
+    - [Final Self-Assessments]()
+        - [Nishit Grover](./assignent3-Team_Contract/Assignent3_Grover.pdf)
+        - [Anay Joshi](./assignent3-Team_Contract/Assignent3_Joshi.pdf)
+
    
 ---
 
-6. [PPT Slideshow](./Fall_Design_Presentation.pptx)  
+8. [Summary of Hours and Justification](./SD.pdf)    
 ---
 
-7. [Self-Assessment Essays](./assignent3-Team_Contract)
-   - [Nishit Grover](./assignent3-Team_Contract/Assignent3_Grover.pdf)
-   - [Anay Joshi](./assignent3-Team_Contract/Assignent3_Joshi.pdf) 
----
-
-8. [Professional Biographies](./Professional_Biographies)  
-   - [Nishit Grover](./Professional_Biographies/Nishit_Biography.md)
-   - [Anay Joshi](./Professional_Biographies/Anay_Biography.md)
----
-
-9. [Budget](#budget) 
-- Currently not available. 
+9. [Summary of Expenses]() 
+   - Not Applicable
 ---
 
 10. [Appendix](#appendix)
-   - [Source Code](./FurrFectSD)
-   - [Meeting Notes](./meeting_notes.docx)
+   - [Source Code](./codebase)
+
 
 
 
