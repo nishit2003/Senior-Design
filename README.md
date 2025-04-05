@@ -7,7 +7,7 @@
 
 ---
 
-2. [User Interface Specification](./UI_images.pdf)
+2. [User Interface Specification](./UI.pdf)
 ---
 
 3. [Test Plan and Results]()
