@@ -33,7 +33,7 @@
         - [Anay Joshi](./assignent3-Team_Contract/Assignent3_Joshi.pdf)
     - [Final Self-Assessments]()
         - [Nishit Grover](./Assignment6-Self%20Assessment/Nishit_SelfAssessment.pdf)
-        - [Anay Joshi](./assignent3-Team_Contract/Assignent3_Joshi.pdf)
+        - [Anay Joshi](./Assignment6-Self%20Assessment/Anay_SelfAssessment.pdf)
 
    
 ---
